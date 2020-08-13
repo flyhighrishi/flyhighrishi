@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rishikesh Shukla</h1>
-<h3 align="left">I'm a Developer  <br>I’m currently working on a [VS Code Course]! <br> I’m currently learning everything 🤣 <br> I’m looking to collaborate with other content creators  <br>🥅 2020 Goals: Contribute more to Open Source projects <br>Keen Interest in Cyber Security</h3>
+<h3 align="left">I'm a Developer  <br>Currently working on a [VS Code Course]! <br> At the current point, I am learning everything 🤣 <br> I’m looking to collaborate with other content creators  <br>🥅 2020 Goals: Contribute more to Open Source projects <br>Keen Interest in Cyber Security</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flyhighrishi" alt="flyhighrishi" /> </p>
 <h4>Languages and Tools: </h4>

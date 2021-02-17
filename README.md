@@ -14,18 +14,19 @@
 </p>
 <h4>Languages and Tools:</h4>
 <p align="left">
+    <img
+    src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"
+    alt="C"
+    width="40"
+    height="40"
+  />
   <img
     src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getbootstrap/getbootstrap-icon.svg"
     alt="bootstrap"
     width="40"
     height="40"
   />
-  <img
-    src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"
-    alt="C"
-    width="40"
-    height="40"
-  />
+
   <img
     src="https://www.vectorlogo.zone/util/preview.html?image=/logos/netlifyapp_watercss/netlifyapp_watercss-official.svg"
     alt="css3"
